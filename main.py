@@ -1,9 +1,11 @@
+# Singular Value Decomposition
+# Given image was alreaady in greyscale
 from __future__ import division
 import matplotlib.pyplot as plt
 import numpy as np
 from PIL import Image
 
-image = np.array(Image.open(r"C:\Users\iffat\Downloads\image.jpg"))
+image = np.array(Image.open(r"image.jpg"))
 # normalize the intensity values in each pixel
 image = image/255
 
