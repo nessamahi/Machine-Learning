@@ -11,7 +11,7 @@ https://drive.google.com/file/d/13N5bDwcZc40myJc-usx7H1c9CdNyuFcl/view?usp=shari
 + Plot the 2D data points.
 + Use K-means clustering.  
 
-**Topic 2: Use Linear Regression to Predict Covid-19 Mortality in the Countries Worldwide**
+**Topic 3: Use Linear Regression to Predict Covid-19 Mortality in the Countries Worldwide**
   Two Features :
   + Percentage of persons over the age of 65 in the population
   + The number of hospital beds per 1000 people in the most recent reported year.
