@@ -12,7 +12,7 @@ https://drive.google.com/file/d/13N5bDwcZc40myJc-usx7H1c9CdNyuFcl/view?usp=shari
 + Use K-means clustering.  
 
 **Topic 3: Use Linear Regression to Predict Covid-19 Mortality in the Countries Worldwide**
-  Two Features :
+  + Two Features :
   + Percentage of persons over the age of 65 in the population
   + The number of hospital beds per 1000 people in the most recent reported year.
 *The response variable for each country will be the number of Covid-19 deaths per 100k population. To train the model, use the from 10 countries
